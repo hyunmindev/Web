@@ -3,7 +3,7 @@
 ## [Buxi-Client](https://github.com/hyunmindev/Web_Buxi-Client)
 description : Dynamic path bus client service
 
-❗️환경복지부 정부혁신제안 끝장개발대회 메이크토 수상
+❗️환경복지부 정부혁신제안 끝장개발대회 메이크톤 수상
 
 stacks : Vue, Firebase, Serverless, etc.
 
