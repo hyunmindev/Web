@@ -5,6 +5,11 @@ description : 개발자를 위한 SNS
 
 stacks : React, Express, Nginx, OAuth, etc.
 
+## [Flutter Chat](https://github.com/hyunmindev/Flutter-Chat)
+description : Flutter2.0 를 활용하 간단한 채팅 서비스
+
+stacks : Flutter, Firebase
+
 ## [Buxi-Client](https://github.com/hyunmindev/Web_Buxi-Client)
 description : Dynamic path bus client service
 
