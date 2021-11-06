@@ -5,6 +5,11 @@ description : 개발자를 위한 SNS
 
 stacks : React, Express, Nginx, OAuth, etc.
 
+## [Promise](https://github.com/hyunmindev/Web_Promise)
+description : 프로미스를 깊게 공부하기 위해 직접 구현하여 npm에 배포함
+
+stacks : JS, npm
+
 ## [Flutter Chat](https://github.com/hyunmindev/Flutter-Chat)
 description : Flutter2.0를 활용하 간단한 웹 채팅 서비스
 
